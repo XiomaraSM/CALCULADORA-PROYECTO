@@ -18,3 +18,4 @@ function ingresarnumero (x)
        document.Calculadora.txtboxnros.value=X;
     }
 }
+
